@@ -5,9 +5,9 @@ const defaultState = {
     heading: 'সন্ধ্যার সংবাদ',
     subheading: 'আজকের গুরুত্বপূর্ণ সব খবর, এক নজরে দেখে নিন।',
     date: '27 December 2025',
-    domain: 'example.com',
-    facebook: 'yourpage',
-    youtube: 'yourchannel',
+    domain: 'bartachitra.com',
+    facebook: 'bartachitra',
+    youtube: 'bartachitra',
     image: '', // Data URL
     imageScale: 1,
     imageX: 0,
